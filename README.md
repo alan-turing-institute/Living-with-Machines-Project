@@ -1,2 +1,3 @@
-# Living-with-Machines-Project
-Living with Machines (LwM) Project
+# Living with Machines Project
+
+**Coming soon!**
