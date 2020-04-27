@@ -1,3 +1,3 @@
 # Living with Machines Project
 
-**Coming soon!**
+Please see [https://github.com/Living-with-machines]()
